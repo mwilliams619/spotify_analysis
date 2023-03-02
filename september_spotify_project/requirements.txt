@@ -1,0 +1,9 @@
+spotipy==2.21.0
+pandas
+db-sqlite3
+plotly
+statistics
+scikit-learn
+copy
+flask
+json
