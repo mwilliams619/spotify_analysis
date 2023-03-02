@@ -23,10 +23,4 @@ Spotify API reference: https://developer.spotify.com/documentation/web-api/refer
 
 
 
-P.S. You can VISUALLY INTERPRET THE DATA GENERATED BELOW USE GEPHI https://gephi.org/
-
-first create a spotify developer app on developer.spotify.com to get login credentials (client_id and client_secret)
-
-At the bottom of SpotifyClassDef.py a code snippet is available to generate nodes and edges for the Pollen playlist and the song passionfruit by drake
-
-The nodes and edges will generate csv files which can be viualized when uploaded into gephi
+P.S. You can use Gephi to visualize the data. https://gephi.org/ The code will generate node and edges csv files and you can manually add those into Gephi to see an example of how the display should eventually look. Their api uses Java
